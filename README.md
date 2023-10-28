@@ -8,7 +8,7 @@ FastCopy Lab, LLC.
 한글번역: gurupia  
 ======================================================================    
 
-특징입니다:
+특징:
 Windows 계열에서 가장 빠른 파일 복사 & 삭제 도구입니다.
 
 NT계열 OS 의 경우, UNICODE 로 밖에 표현할 수 없는 파일명이나 MAX_PATH(260글자)를  
@@ -46,8 +46,6 @@ xxHash library
 Copyright (C) 2012-2016 Mr.Yann Collet, All rights reserved.
 more details: external/xxhash/LICENSE
 
-사용법 등입니다.
-도움말(fastcopy.htm)을 참조하십시오.
+사용법은 도움말(fastcopy.htm)을 참조하십시오.
 
-소스 빌드에 대해서입니다:
-VS2017 이후로 빌드할 수 있습니다.
+소스 빌드 환경은 VS2017 이후로 빌드할 수 있습니다.
