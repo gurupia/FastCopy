@@ -33,8 +33,8 @@ Include/Exclude 필터(UNIX 와일드 카드 형식)가 지정 가능합니다.
 MFC 등의 프레임워크를 사용하지 않고 Win32API만으로 만들고 있으므로,
 경량 & 콤팩트 & 빠르게 작동합니다.
 
-라이선스입니다.
-FastCopy ver3.x
+
+FastCopy ver3.x의 라이선스입니다.
 
 Copyright(C) 2004-2019 SHIROUZU Hiroaki All rights reserved.
 
