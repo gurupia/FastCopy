@@ -35,15 +35,21 @@ MFC 등의 프레임워크를 사용하지 않고 Win32API만으로 만들고 �
 
 라이선스입니다.
 FastCopy ver3.x
+
 Copyright(C) 2004-2019 SHIROUZU Hiroaki All rights reserved.
+
 Copyright(C) 2018-2019 FastCopy Lab, LLC. All rights reserved.
 
 전체 소스 코드는 GPLv3에서 공개하고 있습니다.
+
 VC++ 등을 가지고 계신다면 커스터마이즈 이용도 가능합니다.
+
 자세한 내용은 동봉된 license-gpl3.txt를 참조하십시오.
 
 xxHash library
+
 Copyright (C) 2012-2016 Mr.Yann Collet, All rights reserved.
+
 more details: external/xxhash/LICENSE
 
 사용법은 도움말(fastcopy.htm)을 참조하십시오.
